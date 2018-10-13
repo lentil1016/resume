@@ -1,4 +1,6 @@
-yum install php56w-common php56w-mysqlnd php56w-xml php56w-pdo php56w php56w-gd php56w-cli php56w-mbstring git httpd
+yum install -y epel-release
+rpm -Uvh https://mirror.webtatic.com/yum/el7/webtatic-release.rpm
+yum install -y php56w-common php56w-mysqlnd php56w-xml php56w-pdo php56w php56w-gd php56w-cli php56w-mbstring git httpd
 systemctl restart httpd
 git clone https://github.com/Lentil1016/grav.git
 pushd grav
