@@ -3,13 +3,13 @@ systemctl restart httpd
 git clone https://github.com/Lentil1016/grav.git
 pushd grav
 	./bin/grav install
-	pushd user/theme
+	pushd user
 		rm -rf pages config
 		git clone https://github.com/Lentil1016/resume.git
 		mv resume/pages pages
 		mv resume/config config
 		rm -rf resume
-		pushd theme
+		pushd themes
 			git clone https://github.com/Lentil1016/zresume.git
 		popd
 	popd
