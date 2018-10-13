@@ -8,8 +8,8 @@ download_url: "https://lentil1016.cn"
 
 baseinfo_name: "基本信息"
 baseinfo:
-    - line: "出生于1994年9月"
-    - line: "性别：男"
+    - line: "男"
+    - line: "生于1994/09"
 contact_name: "联系方式"
 contact: 
     - line: "lentil1016@gmail.com"
