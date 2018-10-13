@@ -13,7 +13,7 @@ baseinfo:
 contact_name: "联系方式"
 contact: 
     - line: "lentil1016@gmail.com"
-    - line: "(+86)15843139793"
+    - line: "https://lentil1016.cn"
 social_name: "社交账号"
 social:
     - line: "Wechat：lentil1016"
