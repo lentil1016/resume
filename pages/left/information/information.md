@@ -15,12 +15,12 @@ taxonomy:
 
 **Skills:**
 
-- 熟悉面向对象范式，异步/并发编程，RPC，位操作，熟练使用 C/C++，C#，熟悉 Python，Go，不局限于特定语言。
-- 熟悉Web思想，了解Vuejs和Nodejs，具有入门的JS全栈能力。
-- 熟悉Kubernetes，docker及周边工具链，熟练编写 K8s manifest / helm chart / dockerfile，有Cgroup开发经验，了解Calico/Flannel网络方案原理。
-- Tools: Fedora gdb tcpdump nmap zsh
-- Vim or Emacs?: Vim
-- Git or Svn?: Git
-- Tab or Space?: Tab
+- **BackEnd:** 熟悉面向对象范式，异步/并发编程，RPC，位操作，熟练使用 C/C++，C#，熟悉 Python，Go，不局限于特定语言。
+- **FrontEnd:** 熟悉Web思想，了解Vuejs和Nodejs，具有入门的JS全栈能力。
+- **DevOps:** 熟悉Kubernetes，docker及周边工具链，熟练编写 K8s manifest / helm chart / dockerfile，有Cgroup开发经验，了解Calico/Flannel网络方案原理。
+- **Tools:** Fedora gdb tcpdump nmap zsh
+- **Vim or Emacs?:** Vim
+- **Git or Svn?:** Git
+- **Tab or Space?:** Tab
 
 对DevOps开发相关的工作机会感兴趣。
