@@ -8,11 +8,11 @@ taxonomy:
 
 **Community Works**
 
-- [Kubernetes/Kubernetes](https://github.com/kubernetes/kubernetes/issues/58503): 报告ConfigMap的Bug一例 ![https://img.shields.io/badge/Issue-closed-orange.svg]
-- [Kubernetes/Website](https://github.com/kubernetes/website/pull/11662): Wrong API Version fix ![https://img.shields.io/badge/PR-merged-green.svg]
-- [feiskyer/kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook/pull/178): bad command fix ![https://img.shields.io/badge/PR-merged-green.svg]
-- [badges/shields](https://github.com/badges/shields/pull/2171): Github Stars Badge bug fix ![https://img.shields.io/badge/PR-merged-green.svg]
-- [MintCN/linux-insides-zh](https://github.com/MintCN/linux-insides-zh/pull/202): 提交一份Cgroup的文档翻译 ![https://img.shields.io/badge/PR-merged-green.svg]
+- [Kubernetes/Kubernetes](https://github.com/kubernetes/kubernetes/issues/58503): 报告ConfigMap的Bug一例 ![](https://img.shields.io/badge/Issue-closed-orange.svg)
+- [Kubernetes/Website](https://github.com/kubernetes/website/pull/11662): Wrong API Version fix ![](https://img.shields.io/badge/PR-merged-green.svg)
+- [feiskyer/kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook/pull/178): bad command fix ![](https://img.shields.io/badge/PR-merged-green.svg)
+- [badges/shields](https://github.com/badges/shields/pull/2171): Github Stars Badge bug fix ![](https://img.shields.io/badge/PR-merged-green.svg)
+- [MintCN/linux-insides-zh](https://github.com/MintCN/linux-insides-zh/pull/202): 提交一份Cgroup的文档翻译 ![](https://img.shields.io/badge/PR-merged-green.svg)
 
 **Personal project**
 
