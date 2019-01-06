@@ -16,9 +16,9 @@ project:
     pro_name: K8s第一阶段方案的实现
     pro_desc:
     - line: 开发内容：Helm Chart, Shell, Go, dockerfile
-    - line: 工作流：Github Harbor Jenkins Helm
-    - line: 集群方案：Ha(keepalived) calico kube-proxy(ipvs) traefik(https)
-    - line: k8s对象：Deploy, DeamonSet, Job, Service, Configmap, Ingress, ClusterRole, Role, ServiceAccount
+    - line: K8s方案：Ha(keepalived) calico kube-proxy(ipvs) traefik(https)
+    - line: 上游工具：Gitlab/Github Harbor Jenkins Helm
+    - line: 下游工具：Prometheus Rook Grafana Ceph
     - line: 容器化范围：legacy i686 Stateful C++, JavaEE Spring boot, oracle, mysql, redis, mongo, etc.
 
   - category: Lentil1016/plastic-database-deployer (New Project)

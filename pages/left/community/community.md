@@ -9,8 +9,9 @@ taxonomy:
 **Community Works**
 
 - [Kubernetes/Kubernetes](https://github.com/kubernetes/kubernetes/issues/58503): 报告ConfigMap的Bug一例
-- [Kubernetes/Helm](https://github.com/helm/helm/pull/3744): 提交Hook delete policy相关的Feature PR一例
-- [badges/shields](https://github.com/badges/shields/pull/2171): 提交Github Stars Badge的bug fix
+- [Kubernetes/Website](https://github.com/kubernetes/website/pull/11662): Wrong API Version fix
+- [feiskyer/kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook/pull/178): bad command fix
+- [badges/shields](https://github.com/badges/shields/pull/2171): Github Stars Badge bug fix
 - [MintCN/linux-insides-zh](https://github.com/MintCN/linux-insides-zh/pull/202): 提交一份Cgroup的文档翻译
 
 **Personal project**
