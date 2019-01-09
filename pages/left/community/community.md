@@ -12,7 +12,7 @@ taxonomy:
 - [Kubernetes/Website](https://github.com/kubernetes/website/pull/11662): Wrong API Version fix ![](https://img.shields.io/badge/PR-merged-brightgreen.svg)
 - [feiskyer/kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook/pull/178): bad command fix ![](https://img.shields.io/badge/PR-merged-brightgreen.svg)
 - [badges/shields](https://github.com/badges/shields/pull/2171): Github Stars Badge bug fix ![](https://img.shields.io/badge/PR-merged-brightgreen.svg)
-- [MintCN/linux-insides-zh](https://github.com/MintCN/linux-insides-zh/pull/202): 提交一份Cgroup的文档翻译 ![](https://img.shields.io/badge/PR-merged-brightgreen.svg)
+- [coreos/prometheus-operator](https://github.com/coreos/prometheus-operator/pull/2263): Prometheus-operator bug fix ![](https://img.shields.io/badge/PR-merged-brightgreen.svg)
 
 **Personal project**
 
