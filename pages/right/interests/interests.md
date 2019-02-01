@@ -4,9 +4,6 @@ icon: link
 date: 16:40 08/29/2017
 
 interests:
-    - icon: comments
-      activity: 敏捷开发
-      animation: bounceIn
     - icon: social-github
       activity: Github协作
       animation: bounceIn
