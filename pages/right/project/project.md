@@ -15,7 +15,7 @@ project:
   - category: DevOps/Cubes (New Project)
     pro_name: K8s第一阶段方案的实现
     pro_desc:
-    - line: 开发内容：Helm Chart, Shell, Go, dockerfile
+    - line: 开发内容：Helm Chart, dockerfile, Go
     - line: K8s方案：Ha(keepalived) calico kube-proxy(ipvs) traefik(https)
     - line: 上游工具：Gitlab/Github Harbor Jenkins Helm
     - line: 下游工具：Prometheus Rook Grafana Ceph
