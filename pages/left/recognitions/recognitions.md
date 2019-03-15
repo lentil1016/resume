@@ -7,7 +7,7 @@ recognitions:
     - title: Certified Kubernetes Administrator
       place: https://www.cncf.io/certification/cka/
       desc: CKA-1900-001618-0100
-      category: K8s
+      category: CKA
       animation: fadeIn
 
 taxonomy:
