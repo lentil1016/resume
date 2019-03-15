@@ -11,5 +11,5 @@ recognitions:
       animation: fadeIn
 
 taxonomy:
-    category: right
+    category: left
 ---

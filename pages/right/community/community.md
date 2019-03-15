@@ -3,7 +3,7 @@ title: 社区经验
 icon: social-github
 date: 16:24 08/29/2017 
 taxonomy:
-    category: left
+    category: right
 ---
 
 **Community Works**
