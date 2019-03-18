@@ -67,7 +67,7 @@ section {
 }
 
 .person-info {
-    font-size: small;
+    font-size: middle;
     width: 50%;
     min-width: 250px;
     float: left;
@@ -120,7 +120,7 @@ ul {
 
 .small-icon {
     height: 1.5rem;
-    width: 1.5rem;
+    width: 2rem;
     margin: 5px;
     padding-bottom: 2px;
     vertical-align: middle;
