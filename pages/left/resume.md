@@ -1,7 +1,7 @@
 ---
 title: 关于我 | 孙宇鲲
 name: 孙宇鲲
-description: DevOps & 后台开发
+description: Cloud 研发工程师
 
 download_name: "博客 <i class=\"fi-arrow-right\"></i>"
 download_url: "https://lentil1016.cn"
